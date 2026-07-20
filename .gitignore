@@ -1,0 +1,14 @@
+node_modules/
+.env
+.env.local
+.env.production
+.env.example
+*.log
+.DS_Store
+dist/
+build/
+.next/
+*.pyc
+__pycache__/
+.vscode/
+.idea/
