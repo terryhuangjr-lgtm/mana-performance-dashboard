@@ -73,6 +73,15 @@ MANA Performance Dashboard unifies patient data, scheduling, exercise compliance
 
 ## 📸 Screenshots
 
+![Schedule View](screenshots/mana-schedule.png)
+*Daily appointment schedule synced from Jane App.*
+
+![Patient Pipeline](screenshots/mana-pipeline.png)
+*Patient pipeline tracking — intake through discharge.*
+
+![Analytics Dashboard](screenshots/mana-analytics.png)
+*Practice analytics — revenue, visits, compliance rates.*
+
 *Screenshots coming soon.*
 
 ---
